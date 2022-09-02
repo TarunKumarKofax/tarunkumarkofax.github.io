@@ -6,4 +6,4 @@ subheadline         : "Contact Form"
 teaser              : "Get in touch with me? Use the contact form."
 permalink           : "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/)
+Welcome to FiveNest.Tech, contact us now!
