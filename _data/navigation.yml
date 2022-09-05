@@ -3,11 +3,11 @@
 #  side: left
 
 - title: Home
-  url: "/"
+  url: "/home"
   side: left
 
 - title: About Us
-  url: "/"
+  url: "/aboutus"
   side: left
 
 - title: Services
