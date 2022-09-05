@@ -2,6 +2,26 @@
   url: "/"
   side: left
 
+- title: Home
+  url: "/"
+  side: left
+
+- title: About Us
+  url: "/"
+  side: left
+
+- title: Services
+  url: "/"
+  side: left
+
+- title: Career
+  url: "/"
+  side: left
+
+- title: Contact Us
+  url: "/"
+  side: left
+
 - title: Getting Started
   url: "/getting-started/"
   side: left
@@ -73,3 +93,4 @@
 - title: "Contact"
   url: "/contact/"
   side: right
+

@@ -8,20 +8,20 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Feeling Responsive'
+title: 'FiveNest.Tech'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'A Flexible Theme for Jekyll'
+slogan: 'Bright Solutions Profitable Results'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
+description: 'We are IT organization offering application development services, experience in implementing and deploying Kofax, Abby, InputAccel, Microsoft .Net applications, Business Process Automation and document capture, providing innovative solutions to transform and automate information intensive business workflow and robotic processes, across both back and front office operations. We also conduct training, workshops, consultancy, and bespoke development on leading capture technologies like Kofax Capture, Kofax Total Agility, Captiva Capture, ABBYY FlexiCapture, ABBYY Flexilayout, Datacap.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: FiveNest
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
