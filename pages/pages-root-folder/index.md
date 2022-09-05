@@ -18,7 +18,7 @@ widget2:
 widget3:
   title: "Business Process Management"
   url: 'https://www.fivenest.tech/aboutus/'
-  text: 'Total Agility’s industry leading support for Dynamic Case Management delivers support for non-standardized and unpredictable processes, whilst improved operational performance visibility is delivered'
+  text: 'TotalAgility industry leading support for Dynamic Case Management delivers support for non-standardized and unpredictable processes, whilst improved operational performance visibility is delivered'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -32,11 +32,11 @@ widget3:
 
 # Commented by Tarun - 05 - 09 - 2022
 
-# # # callforaction:
-# # #   url: https://tinyletter.com/feeling-responsive
-# # #   text: Inform me about new updates and features ›
-# # #   style: alert
-# # # permalink: /index.html
+# callforaction:
+#   url: https://tinyletter.com/feeling-responsive
+#   text: Inform me about new updates and features ›
+#   style: alert
+permalink: /index.html
 
 #
 # This is a nasty hack to make the navigation highlight
