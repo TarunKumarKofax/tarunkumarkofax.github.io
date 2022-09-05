@@ -10,8 +10,6 @@ permalink           : "/aboutus/"
 ---
 
 <div class="row">
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-{% include _improve_content.html %}
 
 ## PAST EXPERIENCE   {#edit-navigation}
 
@@ -30,6 +28,4 @@ Getting data capture right across every channel and making data available quickl
 ### Business Process Management
 Total Agility’s industry leading support for Dynamic Case Management delivers support for non-standardized and unpredictable processes, whilst improved operational performance visibility is delivered throughout the accessibility of user defined dashboards and process analytics. Kofax Total Agility delivers industry leading out of the box integration with the Microsoft® portfolio, interacting effortlessly with Microsoft® Dynamics CRM, SharePoint and Exchange. The software also supports integration with Microsoft® Lync for collaboration, as well as non-Microsoft® products, such as HP Trim.
 
-{% include _improve_content.html %}
-</div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
