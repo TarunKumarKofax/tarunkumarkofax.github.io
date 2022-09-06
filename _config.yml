@@ -17,7 +17,7 @@ slogan: 'Bright Solutions Profitable Results'
 description: 'We are IT organization offering application development services, experience in implementing and deploying Kofax, Abby, InputAccel, Microsoft .Net applications, Business Process Automation and document capture, providing innovative solutions to transform and automate information intensive business workflow and robotic processes, across both back and front office operations. We also conduct training, workshops, consultancy, and bespoke development on leading capture technologies like Kofax Capture, Kofax Total Agility, Captiva Capture, ABBYY FlexiCapture, ABBYY Flexilayout, Datacap.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Copyright © 2022 FiveNest.tech | All Rights Reserved</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -112,7 +112,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: FiveNest     # Default author for pages
   -
     scope:
       path: ''
@@ -121,7 +121,7 @@ defaults:
       show_meta: false   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: FiveNest     # Default author for posts
 
 
 
